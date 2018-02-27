@@ -1,0 +1,8 @@
+<RCC>
+    <qresource prefix="/">
+        <file>main.qml</file>
+        <file>qtquickcontrols2.conf</file>
+        <file>watertank.obj</file>
+        <file>struct1.obj</file>
+    </qresource>
+</RCC>
